@@ -1,5 +1,5 @@
 from textblob import TextBlob
-from stramlit_lottie import st_lottie
+from streamlit_lottie import st_lottie
 import json
 import pandas as pd
 import streamlit as st
